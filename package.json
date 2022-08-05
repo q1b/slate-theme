@@ -3,6 +3,11 @@
   "displayName": "slate-theme",
   "description": "Basic slate-theme, just becoming more more more ... INFINITY",
   "version": "0.0.1",
+  "publisher": "divyamrit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacarvy/slate-theme"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
