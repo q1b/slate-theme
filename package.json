@@ -1,0 +1,27 @@
+{
+  "name": "slate-theme",
+  "displayName": "slate-theme",
+  "description": "Basic slate-theme, just becoming more more more ... INFINITY",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes",
+    "dark-theme",
+    "2022-theme",
+    "life-theme",
+    "MONO-theme",
+    "MINI-theme",
+    "VSCODE-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "slate-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slate-theme-color-theme.json"
+      }
+    ]
+  }
+}
