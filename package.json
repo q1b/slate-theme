@@ -2,7 +2,7 @@
   "name": "slate-theme",
   "displayName": "slate-theme",
   "description": "Basic slate-theme, just becoming more more more ... INFINITY",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "divyamrit",
   "repository": {
     "type": "git",
@@ -12,8 +12,10 @@
     "vscode": "^1.70.0"
   },
   "categories": [
-    "Themes",
-    "dark-theme",
+		"Themes"
+	],
+  "keywords": [
+      "dark-theme",
     "2022-theme",
     "life-theme",
     "MONO-theme",

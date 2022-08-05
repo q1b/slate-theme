@@ -1,6 +1,6 @@
 {
-	"name": "slate-theme",
 	"$schema": "vscode://schemas/color-theme",
+	"name": "slate-theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#0f172a",
