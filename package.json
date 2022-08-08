@@ -14,13 +14,13 @@
   "categories": [
     "Themes"
   ],
+  "icon": "./assets/logo.png",
   "keywords": [
-    "dark-theme",
-    "2022-theme",
-    "life-theme",
-    "MONO-theme",
-    "MINI-theme",
-    "VSCODE-theme"
+    "tailwindcss",
+    "windicss",
+    "unocss",
+    "moonlight",
+    "gray-theme"
   ],
   "contributes": {
     "themes": [
